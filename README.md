@@ -6,7 +6,7 @@
 
 **A Command Prompt UI for creating tree graphs of folders and files**
 
-**Tree's are created in Unicode or ASCII Format**
+**Tree's can be created in Unicode or ASCII Format**
 
 --- 
 
