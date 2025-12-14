@@ -1,0 +1,74 @@
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+TreeGen by landn.thrn
+
+A Command Prompt UI for creating folder & file tree graphs
+
+Tree's are created in Unicode or ASNII Format
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+How to Launch The TreeGen UI From any Command Prompt Window:  
+
+— Create a folder in your Documents called `Scripts`
+
+— Create a folder inside `Scripts` called `TreeGen`
+
+— Place all the files from this download inside the `TreeGen` folder
+
+— Copy the path address of the `TreeGen` folder, should look like:
+  C:\Users\%USERNAME%\Documents\Scripts\TreeGen
+
+— Windows search for Enviorment Variables
+
+— In System Properties click Enviorment Varibles
+
+— In the User Varibles top box select Path > Edit > New
+
+— Paste the folder path you copied
+
+— Select OK > OK > OK to close Enviorment Variables  
+
+Now you can launch the TreeGen UI just by typing `treegen` in any Command Prompt window
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Find more of my creations on Github:
+https://github.com/landnthrn?tab=repositories
+
+Support me on Buy Me a Coffee
+https://buymeacoffee.com/landn.thrn
+
+Paypal Donation:
+https://www.paypal.com/donate/?hosted_button_id=K4PLHFVBH7X8C
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
