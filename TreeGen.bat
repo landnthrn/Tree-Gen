@@ -55,8 +55,8 @@ echo       CREATE A TREE
 echo ==========================
 echo.
 echo Choose Tree Style:
-echo 1 - ASCII Art
-echo 2 - Unicode Art
+echo 1 - ASCII Format
+echo 2 - Unicode Format
 echo.
 echo M - Back to Menu
 echo.
