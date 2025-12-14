@@ -1,7 +1,8 @@
 
-<img width="266" height="175" alt="TreeGenPreview1" src="https://github.com/user-attachments/assets/cb60204f-c166-4658-aa2e-3ce2a674fcda" />
-<img width="320" height="786" alt="TreeGenPreview2" src="https://github.com/user-attachments/assets/3b5159e6-3b69-4d3e-ab86-b0d87afb9afd" />
-<img width="380" height="829" alt="TreeGenPreview3" src="https://github.com/user-attachments/assets/12450419-b9d9-4f8e-870d-221288b58649" />
+<img width="209" height="175" alt="TreeGenPreview1" src="https://github.com/user-attachments/assets/f0997e38-8e92-4050-b49e-a5f83487ccb5" />
+<img width="302" height="786" alt="TreeGenPreview2" src="https://github.com/user-attachments/assets/b304cb21-b4e2-46bf-bf12-620cac7468fb" />
+<img width="320" height="829" alt="TreeGenPreview3" src="https://github.com/user-attachments/assets/41e4c713-96ab-453a-a5ef-448bd143dc92" />
+
 
 
 # TreeGen
