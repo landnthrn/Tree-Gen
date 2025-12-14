@@ -4,7 +4,7 @@
 
 # TreeGen
 
-**A Command Prompt UI for creating folder & file tree graphs**
+**A Command Prompt UI for creating tree graphs of folders and files**
 
 **Tree's are created in Unicode or ASCII Format**
 
