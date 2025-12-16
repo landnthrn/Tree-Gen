@@ -31,7 +31,7 @@
 
 - Select OK > OK > OK to close Enviorment Variables  
 
-Now you can launch the TreeGen UI just by typing `treegen` in any Command Prompt window
+**Now you can launch the TreeGen UI just by typing `treegen` in any Command Prompt window**
 
 ---
 
